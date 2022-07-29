@@ -65,8 +65,9 @@
 }
 
 .photo, .side-content {
-  /* text-align: center;
-  vertical-align: */
+  display: grid;
+  align-content: center;
+
 
 }
 
